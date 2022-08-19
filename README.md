@@ -8,7 +8,11 @@ This makes use of Riot's API and formats the data nicely for the user as the Bot
 I made this in one day so code could be improved. More specifically that switch statement, which I have plans on fixing up eventually.
 
 ## Use Albe
-If you want to try Albe out, you can add it to your Discord server through [this link](https://discord.com/api/oauth2/authorize?client_id=990048689739399218&permissions=0&scope=bot) (you need to have permissions to the server you want to add it to)
+If you want to try Albe out, you can add it to your Discord server through [this link](https://discord.com/api/oauth2/authorize?client_id=990048689739399218&permissions=0&scope=bot) (you need to have permissions to the server you want to add it to).
+
+Here's an example of the bot's output
+
+![](https://cdn.discordapp.com/attachments/864906898679791669/1010068724927176704/unknown.png)
 
 ### TODO:
 1. Fix switch statement by making a `nicknames.json` file that will contain all possible nicknames for all champion id's
