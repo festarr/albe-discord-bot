@@ -15,7 +15,7 @@ If you want to try Albe out, you can add it to your Discord server through [this
 
 Here's an example of the bot's output
 
-![](https://cdn.discordapp.com/attachments/864906898679791669/1108863562555871293/image.png)
+![](https://cdn.discordapp.com/attachments/864906898679791669/1108863958363930665/image.png)
 
 ### TODO:
 1. Fix switch statement by making a `nicknames.json` file that will contain all possible nicknames for all champion id's
