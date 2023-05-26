@@ -7,6 +7,11 @@ This makes use of Riot's API and formats the data nicely for the user as the Bot
 
 I made this in one day so code could be improved. More specifically that switch statement, which I have plans on fixing up eventually.
 
+## Why Albe?
+I became a more casual League of Legends players as I aged and didn't have as much time. Due to this, I could not keep up with all the changes the game receives. I ended up just using the popular website op.gg, which works as a bit of a cheat sheet so you know how to build your character (champion).
+
+I decided it was too much trouble to open the website and navigate it to get to the right character I wanted, in the limited time you have before the match begins. That's what Inspired me to make Albe, it shows the champion's name and picture frame, as well as its lore background. I added links to the champion's builds for each game mode (see example below)
+
 ## Use Albe
 
 NOTE: Heroku ended its free tier, so the bot is no longer deployed so the link below won't work anymore :(
