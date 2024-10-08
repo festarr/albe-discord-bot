@@ -18,7 +18,7 @@ NOTE: Heroku ended its free tier, so the bot is no longer deployed so the link b
 
 If you want to try Albe out, you can add it to your Discord server through [this link](https://discord.com/api/oauth2/authorize?client_id=990048689739399218&permissions=0&scope=bot) (you need to have permissions to the server you want to add it to).
 
-Here's an example of the bot's output
+Here's an example of the bot's output, click the image if it's cut out
 
 ![](https://cdn.discordapp.com/attachments/864906898679791669/1293005058840985660/image.png?ex=6705cc4c&is=67047acc&hm=d894e1d471d17c16b6fb84ef1bda7c3d139f01bc1f41922711f1ab553e118c33&)
 
